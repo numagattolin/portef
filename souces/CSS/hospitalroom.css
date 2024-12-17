@@ -16,7 +16,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    box-shadow: 0px 6px 4px  rgb(255, 255, 255);
+    box-shadow: 0px 4px 30px rgb(255, 255, 255);
 }
 
 .menu a {
@@ -79,13 +79,13 @@ body {
 /*caroussel*/
 
 .carrousel {
-  position: relative;
-  width: 1909px;
-  overflow: hidden;
-  border-radius: 10px;
-  margin-left: 4px;
-  margin-top: 9px;
-  height: 1406px;
+    position: relative;
+    width: 1909px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-left: 4px;
+    margin-top: 1033px;
+    height: 1375px;
 }
 
 .carrousel-wrapper {
@@ -144,14 +144,11 @@ body {
     background-color: #000000;
     border-radius: 15px;
     overflow: hidden;
-    margin-left: 125px;
-    width: 350px;
-      /*largeur*/
+    margin-left: 1408px;
+    width: 502px;
     box-shadow: 0px 4px 30px rgb(255, 255, 255);
-    height: 350px;
-    /*haueur*/
-    margin-top: 190px;
-      /*haut ou bas*/
+    height: 554px;
+    margin-top: -2008px;
     }
     
     .titre1{
